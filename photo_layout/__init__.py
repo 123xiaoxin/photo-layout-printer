@@ -1,0 +1,1 @@
+"""Photo layout application components."""

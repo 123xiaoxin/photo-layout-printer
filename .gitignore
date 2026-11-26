@@ -1,0 +1,17 @@
+# Python and local builds
+__pycache__/
+*.py[cod]
+.venv/
+/build/
+/dist/
+.codegraph/
+
+# Local printer preferences, diagnostics and previews
+/photo_layout_config.json
+/.photo-layout-*.tmp
+/logs/
+*.log
+/launcher_log.txt
+/环境检查结果.json
+/test_preview.png
+/windows_photos_compare_5in.png
